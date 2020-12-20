@@ -1,3 +1,4 @@
 {
-    "name": "HA Version Sharer"
+    "name": "HA Version Sharer",
+    "render_readme": true
 }
